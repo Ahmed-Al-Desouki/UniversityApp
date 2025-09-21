@@ -1,0 +1,13 @@
+com\mycompany\university\University.class
+com\mycompany\university\EnrollmentCRUD.class
+com\mycompany\university\GradeCRUD.class
+com\mycompany\university\DepartmentCRUD.class
+com\mycompany\university\Students.class
+com\mycompany\university\Courses.class
+com\mycompany\university\Enrollments.class
+com\mycompany\university\StudentCRUD.class
+com\mycompany\university\ProfessorCRUD.class
+com\mycompany\university\Grades.class
+com\mycompany\university\Professors.class
+com\mycompany\university\Departments.class
+com\mycompany\university\CourseCRUD.class
